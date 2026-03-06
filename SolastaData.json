@@ -39,34 +39,41 @@
   ],
   "ranks": [
     {
+      "num": 1,
       "rank": "Nameless",
       "color": "grey"
     },
-    {
+    { "num": 2,
       "rank": "Skia",
       "color": "white"
     },
     {
+      "num": 3,
       "rank": "Moros",
       "color": "blue"
     },
     {
+      "num": 4,
       "rank": "Kathodos",
       "color": "red"
     },
     {
+      "num": 5,
       "rank": "Eunoia",
       "color": "green"
     },
     {
+      "num": 6,
       "rank": "Kairos",
       "color": "yellow"
     },
     {
+      "num": 7,
       "rank": "Metanoia",
       "color": "orange"
     },
     {
+      "num": 8,
       "rank": "Meraki",
       "color": "purple"
     }
@@ -90,6 +97,48 @@
     },
     {
       "class": "Forager",
+      "color": "#ffe5a0"
+    }
+  ],
+    "roles": [
+    {
+      "class": "Shielder",
+      "color": "#ffcfc9"
+    },
+        {
+      "class": "Berserker",
+      "color": "#ffcfc9"
+    },
+    {
+      "class": "Commander",
+      "color": "#d4edbc"
+    },
+    {
+      "class": "Sniper",
+      "color": "#d4edbc"
+    },
+    {
+      "class": "Doctor",
+      "color": "#bfe1f6"
+    },
+        {
+      "class": "Toxicologist",
+      "color": "#bfe1f6"
+    },
+    {
+      "class": "Augmenter",
+      "color": "#e6cff2"
+    },
+        {
+      "class": "Mechanic",
+      "color": "#e6cff2"
+    },
+    {
+      "class": "Survivalist",
+      "color": "#ffe5a0"
+    },
+       {
+      "class": "Tamer",
       "color": "#ffe5a0"
     }
   ]
